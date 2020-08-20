@@ -1,4 +1,6 @@
-def plus_two(num)
+require 
+ef plus_two(num)
 	num + 2
 	num
+	binding.pry
 end
